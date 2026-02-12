@@ -1,4 +1,4 @@
-# Classificação de Notícias
+# Classificação de notícias
 
 Projeto final da disciplina Deep Learning, parte da minha pós-graduação em Ciência de Dados e Machine Learning na PUC Campinas.
 
